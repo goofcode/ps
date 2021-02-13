@@ -1,0 +1,23 @@
+{
+  "name": "ps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb": "^18.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goofcode/ps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goofcode/ps/issues"
+  },
+  "homepage": "https://github.com/goofcode/ps#readme",
+  "description": ""
+}
