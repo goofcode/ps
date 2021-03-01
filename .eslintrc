@@ -9,6 +9,8 @@
         "no-console": "off",
         "indent": ["error", 2],
         "no-plusplus": "off",
-        "no-restricted-syntax": "off"
+        "no-restricted-syntax": "off",
+        "no-bitwise": "off",
+        "no-param-reassign": "off"
     }
 }
